@@ -1,6 +1,6 @@
 # 🎵 Discord Multi-Bot
 <p align="center">
-  <img src="assets/sx2.png" alt="Discord Multi-Bot Banner" width="600">
+  <img src="assets/SX2.png" alt="Discord Multi-Bot Banner" width="600">
 
 <p align="center">
   A powerful **all-in-one Discord bot** featuring:<br>
