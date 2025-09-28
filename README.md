@@ -35,6 +35,18 @@ cd discord-multi-bot
 pip install -U discord.py yt-dlp PyNaCl
 
 ### 3. Install FFmpeg
+### 🔧 FFmpeg Setup (Required for Music)
+
+Because GitHub doesn’t allow files > 100 MB, the FFmpeg binaries are *not included* in this repo.  
+To get them working:
+
+1. Go to the [FFmpeg official site](https://ffmpeg.org/download.html) or a trusted build provider for Windows.  
+2. Download the **Windows build** (look for `.zip` or `.7z` with `ffmpeg.exe`).  
+3. Extract it so you see `ffmpeg.exe`, `ffplay.exe`, `ffprobe.exe`.  
+4. Place `ffmpeg.exe` in the same folder as `bot.py` (or modify the path in your code).  
+5. Run your bot normally — it should find FFmpeg locally and music commands will work.
+
+Make sure `.gitignore` prevents those `.exe` files from being pushed again.
 
 ### ⚠️ Important: We don’t store FFmpeg .exe files in GitHub (too large).
 ### Download FFmpeg from 👉 FFmpeg.org
