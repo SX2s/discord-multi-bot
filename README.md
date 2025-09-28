@@ -1,13 +1,13 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Discord Multi-Bot Banner" width="600">
-</p>
-
 # 🎵 Discord Multi-Bot
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python" alt="Python Badge">
   <img src="https://img.shields.io/badge/Discord.py-2.4.0-blueviolet?logo=discord" alt="Discord.py Badge">
   <img src="https://img.shields.io/badge/Music-Bot-orange?logo=youtube" alt="Music Badge">
+
+<p align="center">
+  <img src="assets/banner.png" alt="Discord Multi-Bot Banner" width="600">
+</p>
 </p>
 
 <p align="center">
