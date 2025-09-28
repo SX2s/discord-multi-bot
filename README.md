@@ -1,4 +1,7 @@
-# discord-multi-bot
+<p align="center">
+  <img src="assets/banner.png" alt="Discord Multi-Bot Banner" width="600">
+</p>
+
 # 🎵 Discord Multi-Bot
 
 <p align="center">
