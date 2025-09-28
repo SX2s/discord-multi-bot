@@ -28,74 +28,73 @@
 ## 🛠️ Installation
 
 ### 1. Clone this repo
-```bash
 git clone https://github.com/SX2s/discord-multi-bot.git
 cd discord-multi-bot
 
-2. Install dependencies
+### 2. Install dependencies
 pip install -U discord.py yt-dlp PyNaCl
 
-3. Install FFmpeg
+### 3. Install FFmpeg
 
-⚠️ Important: We don’t store FFmpeg .exe files in GitHub (too large).
-Download FFmpeg from 👉 FFmpeg.org
- and put ffmpeg.exe in your bot folder (next to bot.py).
+### ⚠️ Important: We don’t store FFmpeg .exe files in GitHub (too large).
+### Download FFmpeg from 👉 FFmpeg.org
+###  and put ffmpeg.exe in your bot folder (next to bot.py).
 
-4. Setup your token
+### 4. Setup your token
 
-Create a file called token.txt in the bot folder and paste your Discord bot token inside it.
-👉 Keep it secret, don’t upload it!
+### Create a file called token.txt in the bot folder and paste your Discord bot token inside it.
+### 👉 Keep it secret, don’t upload it!
 
-📜 Commands
-<details> <summary>🎶 Music</summary>
+### 📜 Commands
+### <details> <summary>🎶 Music</summary>
 
-!join — Join your voice channel
+### !join — Join your voice channel
 
-!leave — Leave the voice channel
+### !leave — Leave the voice channel
 
-!play <url> — Play music from YouTube
+### !play <url> — Play music from YouTube
 
-!pause — Pause music
+### !pause — Pause music
 
-!resume — Resume playback
+### !resume — Resume playback
 
-!stop — Stop playback
+### !stop — Stop playback
 
-</details> <details> <summary>🔨 Moderation</summary>
+### </details> <details> <summary>🔨 Moderation</summary>
 
-!kick @user
+### !kick @user
 
-!ban @user
+### !ban @user
 
-!mute @user
+### !mute @user
 
-!warn @user <reason>
+### !warn @user <reason>
 
-!clear <amount>
+### !clear <amount>
 
-</details> <details> <summary>🎉 Fun</summary>
+### </details> <details> <summary>🎉 Fun</summary>
 
-!joke
+### !joke
 
-!quote
+### !quote
 
-</details> <details> <summary>ℹ️ Info</summary>
+### </details> <details> <summary>ℹ️ Info</summary>
 
-!serverinfo
+### !serverinfo
 
-!userinfo @user
+### !userinfo @user
 
-!botinfo
+### !botinfo
 
-</details>
-🤝 Contributing
+### </details>
+### 🤝 Contributing
 
-Pull requests are welcome!
-For major changes, please open an issue first to discuss.
+### Pull requests are welcome!
+### For major changes, please open an issue first to discuss.
 
-📜 License
+### 📜 License
 
-MIT License © 2025 SX2s
+### MIT License © 2025 SX2s
 
 
----
+### ---
